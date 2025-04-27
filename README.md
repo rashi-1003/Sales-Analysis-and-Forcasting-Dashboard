@@ -66,10 +66,10 @@ This project focuses on **analyzing and forecasting sales data** using an intera
 ## 📸 Dashboard Snapshots
 
 ### 📊 Sales Overview
-![Sales Overview](./sales-overview.png)
+![Sales Overview](./Sales Overview.jpg)
 
 ### 🔮 Forecasting Analysis
-![Sales Forecasting](./forecasting.png)
+![Sales Forecasting](./Sales Forcasting.jpg)
 
 ## 🙋‍♀️ Created By
 
